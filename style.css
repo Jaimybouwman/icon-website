@@ -12,72 +12,45 @@
 
   p  {
       display: block;
-      font-size: 30px;
-      margin-top: 0.2em;
-      margin-bottom: 0.2em;
-      margin-left: 0;
-      margin-right: 0;
-      font-weight: bold;
+      font-size: 25px;
+      font-weight:normal;
   }
 
   h1 { 
     display: block;
-    font-size: 10px;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 16px;
     font-weight: normal;
 }
 
 h2 { 
     display: block;
-    font-size: 20px;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 32px;
     font-weight: normal;
 }
 
 h3 { 
     display: block;
-    font-size: 30px;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 48px;
     font-weight: normal;
 }
 
 h4 { 
     display: block;
-    font-size: 40px;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 64px;
     font-weight: normal;
 }
 
 h5 { 
     display: block;
-    font-size: 50px;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 80px;
     font-weight: normal;
 }
 
 h6 { 
     display: block;
-    font-size: 60px;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
+    font-size: 25px;
     font-weight: normal;
+
 }
 
   [class^="icon-"], [class*=" icon-"] {
@@ -89,31 +62,200 @@ h6 {
     font-variant: normal;
     text-transform: none;
     line-height: 1;
+
   
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-
-.icon-Wagon_1_1_2:before {
+  .icon-OBJ_1:before {
     content: "\e900";
   }
-  .icon-Wagon_1_2_1:before {
+  .icon-OBJ_2:before {
     content: "\e901";
   }
-  .icon-Wagon_1_1_1_1:before {
+  .icon-OBJ_3:before {
     content: "\e902";
   }
-  .icon-Wagon_2_2:before {
+  .icon-OBJ_4:before {
     content: "\e903";
   }
-  .icon-Wagon_2_1_1:before {
+  .icon-OBJ_5:before {
     content: "\e904";
   }
-  .icon-Wagon_empty:before {
+  .icon-OBJ_6:before {
     content: "\e905";
   }
-  .icon-Loco:before {
+  .icon-OBJ_7:before {
     content: "\e906";
   }
+  .icon-OBJ_8:before {
+    content: "\e907";
+  }
+  .icon-OBJ_9:before {
+    content: "\e908";
+  }
+  .icon-OBJ_10:before {
+    content: "\e909";
+  }
+  .icon-OBJ_11:before {
+    content: "\e90a";
+  }
+  .icon-OBJ_12:before {
+    content: "\e90b";
+  }
+  .icon-OBJ_13:before {
+    content: "\e90c";
+  }
+  .icon-OBJ_14:before {
+    content: "\e90d";
+  }
+  .icon-OBJ_15:before {
+    content: "\e90e";
+  }
+  .icon-OBJ_16:before {
+    content: "\e90f";
+  }
+  .icon-OBJ_17:before {
+    content: "\e910";
+  }
+  .icon-OBJ_18:before {
+    content: "\e911";
+  }
+  .icon-OBJ_19:before {
+    content: "\e912";
+  }
+  .icon-OBJ_20:before {
+    content: "\e913";
+  }
+  .icon-OBJ_21:before {
+    content: "\e914";
+  }
+  .icon-OBJ_22:before {
+    content: "\e915";
+  }
+  .icon-OBJ_23:before {
+    content: "\e916";
+  }
+  .icon-OBJ_24:before {
+    content: "\e917";
+  }
+  .icon-OBJ_25:before {
+    content: "\e918";
+  }
+  .icon-OBJ_26:before {
+    content: "\e919";
+  }
+  .icon-OBJ_27:before {
+    content: "\e91a";
+  }
+  .icon-OBJ_28:before {
+    content: "\e91b";
+  }
+  .icon-OBJ_29:before {
+    content: "\e91c";
+  }
+  .icon-OBJ_30:before {
+    content: "\e91d";
+  }
+  .icon-OBJ_31:before {
+    content: "\e91e";
+  }
+  .icon-OBJ_32:before {
+    content: "\e91f";
+  }
+  .icon-OBJ_33:before {
+    content: "\e920";
+  }
+  .icon-OBJ_34:before {
+    content: "\e921";
+  }
+  .icon-OBJ_35:before {
+    content: "\e922";
+  }
+  .icon-OBJ_36:before {
+    content: "\e923";
+  }
+  .icon-OBJ_37:before {
+    content: "\e924";
+  }
+  .icon-OBJ_38:before {
+    content: "\e925";
+  }
+  .icon-OBJ_39:before {
+    content: "\e926";
+  }
+  .icon-OBJ_40:before {
+    content: "\e927";
+  }
+  .icon-OBJ_41:before {
+    content: "\e928";
+  }
+  .icon-OBJ_42:before {
+    content: "\e929";
+  }
+  .icon-OBJ_43:before {
+    content: "\e92a";
+  }
+  .icon-OBJ_44:before {
+    content: "\e92b";
+  }
+  .icon-OBJ_45:before {
+    content: "\e92c";
+  }
+  .icon-OBJ_46:before {
+    content: "\e92d";
+  }
+  .icon-OBJ_47:before {
+    content: "\e92e";
+  }
+  .icon-OBJ_48:before {
+    content: "\e92f";
+  }
+  .icon-OBJ_49:before {
+    content: "\e930";
+  }
+  .icon-OBJ_50:before {
+    content: "\e931";
+  }
   
+table {
+  width:100%;
+
+  
+}
+table, th, td {
+  border: 1px solid #222;
+  border-collapse: collapse;
+
+
+}
+th, td {
+  padding: 1px;
+  text-align: center;
+  width:7%;
+}
+th  {
+  background-color:#222;
+  color: #fff;
+  border: 1px solid #fff;
+
+}
+table#t01 tr td:nth-child(even) {
+  border-collapse: collapse;
+  background-color: #fff;
+  color: #222;
+  border: 1px solid #222;
+
+}
+table#t01 tr td:nth-child(odd) {
+ border-collapse: collapse;
+ background-color:#222;
+ color: #fff;
+ border: 1px solid fff;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
