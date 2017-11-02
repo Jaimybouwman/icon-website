@@ -889,6 +889,13 @@ td a:hover{
   padding-right:30px;
 }
 
+.logo {
+  width:1000px;
+  float:left;
+
+ 
+}
+
 .svg1 {
   height: 16px;
   padding-right:30px;
